@@ -1,0 +1,39 @@
+.Phraseaccueil {
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.05em rgb(255, 255, 255)
+}
+
+.Phraseaccueil2 {
+    color: white;
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+
+.texteunis {
+    display: flex;
+    flex-direction: column;
+}
+
+.conteneur {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Imageacceuil {
+    padding: 4rem;
+    height: auto;
+    width: 27em;
+}
+
+@media(max-width: 1050px) {
+    .conteneur {
+        flex-direction: column-reverse;
+        justify-content: center;
+        text-align: center;
+        display: flex;
+       
+    }
+}

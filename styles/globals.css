@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #3d4435;
+  background-image: linear-gradient(180deg, #3d4435 49%, #000000 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

@@ -1,0 +1,27 @@
+.Menu {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    color: white;
+}
+
+.Menu a {
+
+    margin: 1rem 2rem;
+}
+
+.Lienstog,
+.Liens {
+    color: white;
+    text-decoration: none;
+}
+
+.Lienstog:hover {
+    border-bottom-color: #fff9;
+}
+
+.Lienstog {
+    border-bottom: 3px solid #fff3;
+}

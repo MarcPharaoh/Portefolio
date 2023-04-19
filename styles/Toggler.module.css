@@ -1,0 +1,28 @@
+.titre {
+    cursor: pointer;
+}
+
+.contenu {
+    border-top: none;
+
+}
+
+.hidden {
+    display: none;
+}
+
+.les2projets {
+    display: flex;
+    flex-direction: column;
+    background-color: #444e3a;
+    border-radius: 2rem;
+    z-index: 1;
+    margin: 1em calc(50% - 50vw);
+    position: absolute;
+}
+
+.liste {
+    display: flex;
+    flex-direction: column;
+
+}

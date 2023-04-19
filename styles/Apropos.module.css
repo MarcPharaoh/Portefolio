@@ -1,0 +1,62 @@
+.Apropostext1 {
+  width: auto;
+  color: white;
+  font-size: 1.2rem;
+  border-style: dotted;
+  border-color: #eee;
+  padding: 1rem;
+}
+
+.Apropostext2 {
+  width: auto;
+  color: white;
+  font-size: 1.2rem;
+  border-style: dotted;
+  border-color: #eee;
+  padding: 1rem;
+}
+
+.Apropostext3 {
+  width: auto;
+  color: white;
+  font-size: 1.2rem;
+  border-style: dotted;
+  border-color: #eee;
+  padding: 1rem;
+}
+
+.Imageapropos {
+
+  height: auto;
+  width: 25em;
+  padding: 2em;
+}
+
+.apropunis {
+  flex-direction: column;
+  display: flex;
+  padding: 5em;
+ 
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.Textepar{
+  text-align: center;
+}
+@media(max-width: 1050px) {
+  .Imageapropos {
+    justify-content: center;
+
+  }
+  .body {
+    flex-direction: column;
+  }
+}
+.Textepar{
+  color: white;
+}

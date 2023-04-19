@@ -1,0 +1,21 @@
+.Footer {
+    background-color: #3d4435;
+    background-image: linear-gradient(0deg, #3d4435 49%, #000000 100%);
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.socialmedia {
+    display: flex;
+    margin-left: 25rem;
+}
+/*Reference pour l'icone facebook: ("https://icons8.com/icons/set/facebook") */
+/*Reference pour l'icone l'inkedIn: ("https://icons8.com/icons/set/linkedin") */
