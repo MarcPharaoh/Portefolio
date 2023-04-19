@@ -9,7 +9,7 @@ import styles from "../styles/Header.module.css"
  */
 export default function Header() {
     return <header className={styles.header}>
-        <Link href="/" className={styles.titre}>Marc-Raphaël Chehab</Link>
+        <Link href="/" className={styles.titre}>Marc-Raphaëlt Chehab</Link>
         <Menu/>
     </header>
 }
