@@ -38,10 +38,10 @@ export default function Projet1() {
                 </div>
             </div>
             <p className={styles.texteprojet1}>Ce projet consistait à réaliser une plateforme en ligne qui permet à l’utilisateur
-                de s’inscrire à un tournois en ligne. L’utilisateur peut s’inscrire à un ou plusieurs tournois et peut se désinscrire.
+                de s’inscrire à un tournoi en ligne. L’utilisateur peut s’inscrire à un ou plusieurs tournois et peut se désinscrire.
                 L’utilisateur doit évidemment se connecter afin de pouvoir effectuer une telle action. L’utilisateur a une page pour son compte.
-                L’administrateur a son propre compte, il peut également supprimer un tournois ou bien en créer un nouveau. Afin de développer l’application web,
-                nous utilisé Visual Studio code. Nous avons utilisé le langage html, Css, Javascript et node.js.
+                L’administrateur a son propre compte, il peut également supprimer un tournoi ou bien en créer un nouveau. Afin de développer l’application web,
+                nous avons utilisé Visual Studio code. Nous avons utilisé le langage html, Css, Javascript et node.js.
             </p>
         </div>
     </>

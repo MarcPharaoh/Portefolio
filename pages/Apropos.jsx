@@ -21,7 +21,7 @@ export default function Apropos() {
             <div className={styles.apropunis}>
                 <div className={styles.Textepar}>
                     <h3>À propos</h3>
-                <p className={styles.Apropostext1}>Je m&apos; appelle Marc-Raphaël Chehab et je suis actuellement diplômé et certifié
+                <p className={styles.Apropostext1}>Je m&apos; appelle Marc-Raphaël Chehab et je suis diplômé et certifié
                     de La Cité collégiale. Je suis un expert dans le domaine de l&apos; informatique. Mon but est de programmer,
                     d&apos; analyser des logiciels informatiques ainsi que toutes leurs composantes. J&apos; aimerais acquérir
                     de l&apos; expérience dans ce domaine de la technologie de l&apos; information.

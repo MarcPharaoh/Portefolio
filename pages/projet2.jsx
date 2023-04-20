@@ -36,11 +36,11 @@ export default function Projet2() {
                 à l’utilisateur de réserver un livre dans une bibliothèque.
                 L’utilisateur devait d’abord se connecter pour une réservation.
                 S’il n’avait pas de compte on l’invitait à en créer un afin de pouvoir réserver des livres.
-                L’utilisateur pouvais aussi contacter l’administrateur pour une demande particulière par la page contactez-nous.
+                L’utilisateur pouvait aussi contacter l’administrateur pour une demande particulière par la page contactez-nous.
                 L’administrateur a son propre compte pour gérer les demandes des clients.
                 Il avait aussi la possibilité d’ajouter ou de supprimer un livre.
-                Cette plateforme a été développée avec Visual studio code et ont utilisé html, Css et javascript,
-                nous avons ajouté une base de données pour configurer et stocké les informations nécessaires au fonctionnement.
+                Cette plateforme a été développée avec Visual studio code et on a utilisé html, Css et javascript,
+                nous avons ajouté une base de données pour configurer et stocker les informations nécessaires au fonctionnement.
             </p>
         </div>
     </>
