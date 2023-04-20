@@ -22,7 +22,7 @@ export default function Accueil() {
                 <Image src={Imageacceuil} alt="image1marc" className={styles.Imageacceuil} />
                 <div className={styles.texteunis}>
                     <h2 className={styles.Phraseaccueil}>Programmeur certifié</h2>
-                    <h2 className={styles.Phraseaccueil2}> et prêts aux défis de la technologie.</h2>
+                    <h2 className={styles.Phraseaccueil2}> et prêt aux défis de la technologie.</h2>
                 </div>
             </div>
         </main>
